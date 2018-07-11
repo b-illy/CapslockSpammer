@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapslockSpammer", "CapslockSpammer\CapslockSpammer.csproj", "{67C1A07B-C23D-42E0-87CC-0F240123433E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67C1A07B-C23D-42E0-87CC-0F240123433E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C1A07B-C23D-42E0-87CC-0F240123433E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C1A07B-C23D-42E0-87CC-0F240123433E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C1A07B-C23D-42E0-87CC-0F240123433E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25A17D0A-6208-4219-BB24-43EBC2F9B48A}
+	EndGlobalSection
+EndGlobal
